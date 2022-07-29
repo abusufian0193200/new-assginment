@@ -1,0 +1,48 @@
+.{
+
+
+padding:0px ;
+margin: 0px;
+
+}
+
+.login-box{
+
+	width:550px;
+	margin: 80px auto;
+	background: #eeeeee;
+	padding: 50px;
+}       
+.sufian{
+
+	width: 100%;
+	text-align: center;
+
+}
+
+.sufian img{
+
+	width: 150px;
+	height: 150px;
+	border-radius:100%;
+}     
+.login-box{
+
+	text-align: center;
+}  
+.login-from{
+
+	width: 100%;
+}  
+.from-group{
+
+	width: 100%;
+	margin: 15px 0px;
+}  
+.from-group label{
+
+	front-size: 14px;
+	flood-width:400px ;
+	color: #000;
+	display: block;
+}
